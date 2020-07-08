@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room-Planner", "FormsLab1\Room-Planner.csproj", "{965946E2-2389-41AE-9212-D4A59F6D45F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965946E2-2389-41AE-9212-D4A59F6D45F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965946E2-2389-41AE-9212-D4A59F6D45F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965946E2-2389-41AE-9212-D4A59F6D45F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965946E2-2389-41AE-9212-D4A59F6D45F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73AB62B4-E343-45E3-879F-A792309E38BF}
+	EndGlobalSection
+EndGlobal
